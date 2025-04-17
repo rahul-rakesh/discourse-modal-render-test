@@ -1,4 +1,4 @@
-# **Plugin Name** Plugin
+# **Minimal Modal Test** Plugin
 
 **Plugin Summary**
 

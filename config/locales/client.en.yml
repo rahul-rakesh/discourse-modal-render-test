@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          TODO_plugin_name: "Plugin Name"
+          minimal_modal_test: "Minimal Modal Test"
   js:
-    discourse_plugin_name:
+    minimal_modal_test:
       placeholder: placeholder
