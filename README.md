@@ -1,5 +1,7 @@
-# **Minimal Modal Test** Plugin
+# Discourse Minimal Modal Render Test Plugin
 
-**Plugin Summary**
+Minimal plugin to reproduce a GJS component rendering error when shown via the modal service.
 
-For more information, please see: **url to meta topic**
+**Discourse Version:** v3.5.0.beta3-dev 
+
+
